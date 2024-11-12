@@ -2,5 +2,5 @@
 
 ## Accesos directos
 
-- [Codigo del ejercicio](montaña_rusa.py)
-- [Prueba unitaria](Test/test_montaña_rusa_py)
+- [Codigo del ejercicio](montana_rusa.py)
+- [Prueba unitaria](Test/test_montana_rusa_py)
