@@ -1,6 +1,6 @@
 # Diseño de montaña rusa
 
-## Accesos directos
+## Acceso directo
 
 - [Codigo del ejercicio](montana_rusa.py)
 
